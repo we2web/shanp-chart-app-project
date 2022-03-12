@@ -34,5 +34,12 @@ export const data = [
         streak: 201,
         time: '1h',
     },
+        {
+        id: 5,
+        name: 'Anupriya',
+        img: 'https://blog.photofeeler.com/wp-content/uploads/2017/09/tinder-photo-size-tinder-picture-size-tinder-aspect-ratio-image-dimensions-crop.jpg',
+        streak: 201,
+        time: '1h',
+    },
     
     ]
